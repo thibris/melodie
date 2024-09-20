@@ -9,6 +9,6 @@ cd $output_dir/originals
 
 curl $url --max-time $duration -o $output_filename
 #curl $url --max-time 1 -o $output_filename
-ffmpeg -i $output_filename -acodec copy -ss 00:08:15.000 -t 01:05:00.000 $output_dir/$output_filename
+ffmpeg -i $output_filename -acodec copy -ss 00:08:15.000 -t 01:00:00.000 $output_dir/$output_filename
 chown www-data $output_dir/$output_filename
 
