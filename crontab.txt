@@ -1,0 +1,2 @@
+#55 21 * * 1  /var/www/html/streamripper.sh darkside 4200
+55 23 * * 1  /var/www/html/streamripper.sh melodie 4200
