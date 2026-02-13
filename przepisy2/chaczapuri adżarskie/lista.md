@@ -1,0 +1,12 @@
+-   500 gramów mąki pszennej typu 500
+-   200 mililitrów ciepłego mleka (około 4/5 szklanki)
+-   150 mililitrów wody (około 3/5 szklanki)
+-   25 gramów świeżych drożdży (z kostki)
+-   1 łyżeczka soli (ok. 5 gramów)
+-   1 łyżeczka cukru (ok. 5 gramów)
+-   4 łyżki oleju roślinnego/oliwy (ok. 50 ml)
+-   5 jajek
+-   200 gramów sera feta
+-   200 gramów mozzarelli (świeżej, w kulce)
+-   200 gramów sera żółtego
+-   40 gramów masła

@@ -1,0 +1,9 @@
+- 1 l maślanki,
+- 250 ml śmietany,
+- 150 g boczku wędzonego,
+- 1 cebula,
+- sól, 
+- pieprz,
+- 1 łyżka mąki pszennej 
+- 300g ziemniaków,
+- 2 łyżki masła
