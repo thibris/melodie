@@ -3,5 +3,3 @@
 *.txt
 przepisy/*
 apps/gis_checker/firebase_service_account.json
-apps/gis_checker/gis_checker.log
-**/*.mp3
