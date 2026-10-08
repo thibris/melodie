@@ -1,0 +1,17 @@
+- duży kawałek korzenia imbiru (około 50g)
+- skórka otarta z dwóch dużych pomarańczy
+- skórka otarta z dwóch dużych pomarańczy
+- skórka otarta z trzech dużych cytryn
+- 8 dużych kawałków kory cynamonu (razem około 50g)
+- 1 cała gałka muszkatołowa
+- 10 strączków zielonego kardamonu
+- 1 łyżeczka nasion kopru włoskiego
+- 1 łyżeczka całych goździków
+- 1 cała gwiazda anyżu
+- 2 łyżeczki nasion kolendry
+- pół łyżeczki pieprzy białego
+- pół łyżeczki pieprzu czarnego
+- pół łyżeczki pieprzu różowego
+- pół łyżeczki pieprzu zielonego
+- 1 łyżeczka ziela angielskiego
+- 2 duże i mięsiste laski wanilii

@@ -1,0 +1,18 @@
+- 500g mielonej wołowiny
+- 500g mielonej wieprzowiny
+- 200g boczku surowego
+- 2 łodygi selera naciowego
+- 3 marchwki
+- 3 średnie cebule
+- 3 średnie cebule
+- 0,5 litra mleka
+- 0,5 litra wina wytrawnego czerwonego (choć podobno i białe pasuje)
+- Przecier pomidorowy (passata), bądź jeśli macie dostęp do pomidorów
+- pelati to z nich zróbcie przecier (ja niestety nie mam).
+- świeża bazylia
+- czosnek
+- masło
+- oliwa z oliwek
+- sól
+- pieprz
+- cukier

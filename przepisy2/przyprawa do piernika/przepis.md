@@ -1,0 +1,8 @@
+- Skórki z cytrusów obieramy zesterem (lub bardzo cienko nożem i pozbywamy się białych, gorzkich części). Imbir obieramy i kroimy w cienkie plasterki.
+- W piekarniku nagrzanym do 160C przez 30 minut suszymy skórki, a przez 40 minut plasterki imbiru.
+- Wszystkie przyprawy (oprócz wanilii) prażymy na suchej patelni. Studzimy.
+- Ostudzone mielimy partiami razem z laską wanilii, wysuszonymi imbirem oraz skórkami z  cytrusów w młynku do kawy lub ucieramy w moździerzu na proszek.
+- Przechowujemy w szczelnie zamykanym szklanym pojemniku z dala od promieni słonecznych.
+- EDIT 2013
+- Imbir wkładam do piekarnika. Po około 15 minutach dodaję skórki, a po kolejnych 10 resztę składników (poza wanilią).
+- W ten sposób nie musimy nic prażyć na patelni :)

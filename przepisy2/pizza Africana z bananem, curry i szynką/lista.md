@@ -1,0 +1,6 @@
+- 250 gramów ciasta na pizzę
+- 3 łyżki sosu pomidorowego (około 45 mililitrów)
+- połowa banana pokrojona w cienkie plasterki
+- 30 gramów szynki pokrojonej w cienkie plasterki
+- szczypta przyprawy curry
+- 125 gramów sera mozarella (w kulce lub tarta)

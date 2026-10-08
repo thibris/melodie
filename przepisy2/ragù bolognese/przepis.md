@@ -1,0 +1,5 @@
+- Boczek, cebulę i seler kroimy w drobną kostkę. Marchewkę ścieramy na grubej tarce.
+- Rozgrzewamy oliwę z łyżką masła na patelni, kiedy masło się rozpuści to wrzucamy boczek. Kiedy boczek się zarumieni wrzucamy do patelni cebulę z selerem. Gdy cebula będzie miękka to dorzucamy marchewkę i przez ok. 10 minut smażymy wszystko razem.
+- Dorzucamy mięsa mielone i staramy się łyżką rozdrobnić, po czym czekamy aż mięso się podsmaży mieszając od czasu do czasu. Gdy mięso będzie podsmażone dolewamy mleko i czekamy aż się na ogniu zredukuje.
+- Jak mleko się zredukuje robimy to samo z winem. Po wyparowaniu wina dodajemy passaty pomidorowej, szczyptę soli, cukru oraz zgniecionego czosnku. Dorzucamy odrobinę pieprzu do smaku, kilka porwanych liści bazylii, mieszamy po czym przykrywamy danie zmniejszamy ogień do minimum i zostawiamy na 3-4h (chyba, że ktoś ma szybkowar jak ja to wtedy skracamy ten czas do ok 75 min) mieszając od czasu do czasu by mięso nie przywarło do dna.
+- Po tym czasie mamy gotowy sos do podania, w razie czego można go jeszcze doprawić przyprawami (np. ostra papryczka pepperoncino).
