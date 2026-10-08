@@ -8,7 +8,7 @@
 
 - Warzywa pieczemy przez jakieś 50-60 minut, aż będą ładnie przypieczone. Po tym czasie wyjmujemy blachę z warzywami, które przekładamy do garnka i zalewamy zimną wodą (aby tylko były przykryte), kości zaś umieszczamy na środku piekarnika i pieczemy jeszcze przez jakąś godzinę, półtorej, aż będą wyglądać mniej więcej tak:
 
-![]("przepisy2/brązowy sos bazowy - demi-glace/1.png")
+![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace/1.png)
 
 - Mocno zrumienione, gdzieniegdzie wręcz przypalone. Tak ma być. Przekładamy kości do garnka (pojemność mojego to jakieś 12-15 litrów, nie wiem dokładnie, ile, jeżeli nie macie takiego litrażu, należy odpowiednio zmniejszyć proporcję, a jak macie większy, to warto te proporcje zwiększyć, bo robota z większą ilością sosu jest dokładnie taka sama, a tych pyszności wystarczy na dłużej), zalewamy zimną wodą, aby wszystkie składniki były dobrze przykryte i włączamy duży ogień, by płyn szybko się zagotował. 
 - Tu jedna ważna rzecz. Na blasze zostanie nam tłuszcz i kawałki mięsa, mięsa z kością, szpiku itp. Żebyś przypadkiem nie pomyślał o wyrzucaniu tych dóbr (tłuszcz jednak można, a nawet należy wylać, ale ostrożnie, by nie stracić pozostałości które są na blasze), są po prostu zbyt cenne. Zalej blachę wodą, postaw na ogniu i podgrzewaj, w tym czasie pracując drewnianą szpatułą, by oderwać pozostałości od blachy. 
