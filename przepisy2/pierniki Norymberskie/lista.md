@@ -1,0 +1,19 @@
+- 200 g zmielonych migdałów
+- 105-120 g zmielonych orzechów laskowych
+- 105-120 g zmielonych orzechów włoskich
+- 75 g drobno posiekanej, kandyzowanej skórki pomarańczowej
+- 75 g drobno posiekanej, kandyzowanej skórki cytrynowej
+- 25 g drobno posiekanej fig suszonych
+- 60-65 g mąki pszennej
+- 1 i 1/2 łyżeczki proszku do pieczenia, tj. ok. 6 g
+- 20 g przyprawy korzennej do piernika
+- 1/2 łyżeczka cynamonu
+- 1 łyżeczka kakao
+- 4 jajka M
+- 100 g cukru
+- 50 g płynnego miodu
+- 1/3 łyżeczki ekstraktu waniliowego
+- 1 łyżeczka rumu
+- 3 krople olejku migdałowego
+- drobna szczypta soli
+- minimum 37 oblatów o średnicy 70 mm lub większej

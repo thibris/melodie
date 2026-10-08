@@ -1,0 +1,5 @@
+- 250 g mąki (np. pszennej tortowej)
+- 150 g masła, schłodzonego (lub 130 g masła i 20 g smalcu lub margaryny)
+- szczypta soli
+- 3 łyżki cukru
+- 1 jajko

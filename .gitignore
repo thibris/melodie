@@ -1,0 +1,6 @@
+*.mp3
+*.log
+*.txt
+przepisy/*
+apps/*
+**/*.mp3

@@ -1,0 +1,5 @@
+- Przygotuj kapustę. Nie płucz jej, tylko odciśnij z nadmiaru soku, a następnie posiekaj.
+- Do sporej miski wlej mleko, wbij jajko i wymieszaj trzepaczką.
+- Dodaj mąkę. Ja użyłam jasnej mąki orkiszowej, ale może to być zwykła mąka pszenna albo razowa orkiszowa lub pszenna.
+- Wymieszaj składniki na jednolite, gęste ciasto, a następnie dodaj przyprawy (kminek, cząber, sól) oraz posiekaną kapustę i wymieszaj raz jeszcze. Odstaw ciasto na 15 minut, aby odpoczęło.
+- Na dużej patelni rozgrzej tłuszcz do smażenia, a następnie układaj po łyżce ciasta i rozpłaszczaj jak placki ziemniaczane. Smaż fuczki na średnim ogniu z obu stron na złoty kolor i przekładaj na chwilę na ręcznik papierowy, aby pozbyć się nadmiaru tłuszczu.

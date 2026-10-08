@@ -1,0 +1,8 @@
+-   8--10 średnich ziemniaków
+-   2 marchewki
+-   200 g Gorgonzoli (ja używam biedronkowej)
+-   Pieprz cayenne (chilli)
+-   Sól
+-   Zioła prowansalskie
+-   Niecały litr wody
+-   Pietruszka i śmietana do dekoracji

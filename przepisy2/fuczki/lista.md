@@ -1,0 +1,8 @@
+- 300 g dobrej kiszonej kapusty, odciśniętej z nadmiaru soku
+- 200 ml, czyli 1 szklanka mleka lub wody
+- 1 jajko
+- 200 g, czyli 1,5 szklanki mąki, u mnie orkiszowa, ale może być pszenna, a tradycyjnie używano zamiennie mąki owsianej
+- pół łyżeczki mielonego kminku (można pominąć)
+- łyżeczka suszonego cząbru lub majeranku (można pominąć)
+- 1/3 łyżeczki soli
+- tłuszcz do smażenia

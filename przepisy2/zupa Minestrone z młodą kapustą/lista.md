@@ -1,0 +1,17 @@
+### Składniki
+- 3 łyżki oliwy z pierwszego tłoczenia
+- 1 cebula
+- 2 ząbki czosnku
+- 2 marchewki
+- 2 i 1/2 litra bulionu
+- 4 łyżki drobnego makaronu
+- 3 młode ziemniaki
+- 2 szklanki poszatkowanej młodej, zielonej kapusty
+- 1/2 cukinii
+- 1 puszka drobnej białej fasolki
+- opcjonalnie: 4 łyżki drobno startego parmezanu lub grana padano
+- 2 łyżeczki suszonego oregano
+- 2 pomidory
+- 1 łyżka koncentratu pomidorowego
+- 2 łyżki posiekanej natki pietruszki
+- do doprawienia np. 1 łyżeczka sosu worcestershire, chili
