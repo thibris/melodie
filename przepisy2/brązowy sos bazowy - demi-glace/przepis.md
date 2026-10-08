@@ -4,7 +4,7 @@
 - rozłożony na warzywach. 
 - Obie blachy przekładamy do piekarnika nagrzanego na 230 stopni, blachę z warzywami na górze, tuż pod grzałką, blachę z kośćmi na dole piekarnika.
 
-![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace4.png)
+![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace/4.png)
 
 - Warzywa pieczemy przez jakieś 50-60 minut, aż będą ładnie przypieczone. Po tym czasie wyjmujemy blachę z warzywami, które przekładamy do garnka i zalewamy zimną wodą (aby tylko były przykryte), kości zaś umieszczamy na środku piekarnika i pieczemy jeszcze przez jakąś godzinę, półtorej, aż będą wyglądać mniej więcej tak:
 
@@ -16,14 +16,14 @@
 - Jak zacznie ubywać płynu, dolewaj. To bardzo ważne, by wywaru w tym momencie nie przypalić. 
 - Nad wywarem nie trzeba stać, wystarczy raz na jakiś czas przemieszać kości wraz z warzywami i zaglądać, czy nie odparowało za dużo płynu. Po dwudziestu godzinach nasz wywar powinien wyglądać mniej więcej tak:
 
-![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace2.png)
+![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace/2.png)
 
 - To jest moment, w którym należy odcedzić kości i warzywa, po prostu wyjąć je z sosu. 
 - Przekładamy je do większego durszlaka, abyśmy mogli je jeszcze wypłukać, bo nie ma żadnego uzasadnienia dla marnowania wywaru, który siłą rzeczy musi w niewielkich ilościach pozostać na kościach i warzywach. To, co wypłuczemy, z powrotem ląduje w garnku. 
 - Wywar doprowadzamy do wrzenia i redukujemy (w tym miejscu niektórzy nie redukują, ale czekają, aż wywar się schłodzi, żeby zebrać tłuszcz z wierzchu. Są różne techniki i różne metody, ja stosuję inną) To jest moment, w którym musimy już częściej doglądać naszego sosu, co jakiś czas mieszać i pilnować, aby sos się nie przypalił (niektórzy w trakcie dodają bouquet garni, czyli mieszanki przypraw, w woreczku muślinowym, niektórzy dodają czerwonego wina. Ja tego nie robię, chcę, aby sos nie był doprawiony niczym innym). Redukujemy do momentu, w którym nasz sos ładnie oblepia łyżkę, której używamy do mieszania. Sos musi być gęsty, możemy go spróbować, powinien być esencjonalny, mięsny i trochę słodkawy (co pochodzi od marchewki i selera). W tym momencie skręcam na najmniejszy ogień i zbieram pianę z tłuszczu, która pojawia się co chwilę u góry (delikatnie, aby nie wybrać przy tym sosu). Ale i to nie jest konieczne, bowiem gdy sos stężeje, również bez problemu można zebrać tłuszcz z góry. Są różne techniki, sami zdecydujecie, która jest najwygodniejsza. 
 - Sięgamy po pojemnik przeznaczony do kontaktu z żywnością i gorącym płynem i przecieramy nasz sos przez metalowe sitko, bowiem może w nim być jeszcze pełno chrząstek, ukruszonych kości czy kawałków warzyw. Nasz sos powinien wyglądać mniej więcej tak:
 
-![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace3.png)
+![](przepisy2/brązowy%20sos%20bazowy%20-%20demi-glace/3.png)
 
 - Czekamy chwilę, aż ostygnie i wkładamy pojemnik do lodówki na całą noc.
 - Gęsta, zbita galaretka. Musimy jednak uważać, gdy go wyciągamy z pojemnika, aby w kuchni nie było zbyt gorąco, bo może zacząć się rozpuszczać i po prostu go stracimy. Tak się nie musi zdarzyć, ale może. 
