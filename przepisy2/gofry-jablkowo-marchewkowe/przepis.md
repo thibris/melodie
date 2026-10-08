@@ -8,6 +8,7 @@
 8.  Porcje ciasta nakładamy, delikatnie rozprowadzając je w miarę dokładnie po całej płytce, ponieważ dodatek wiórków warzywno-owocowych sam "nie rozchodzi się" razem z ciastem po powierzchni formy. 
 9.  Czas pieczenia porcji będzie zależny od posiadanej przez nas gofrownicy.
 10. Gofry podajemy i jemy z ulubionymi dodatkami. Koneserzy jedzą na sucho ;)
+![](przepisy2/gofry-jablkowo-marchewkowe/1.jpg)
 
 
 Jeśli zastanawiasz się, co zrobić, aby gofry były chrupkie, nawet jeśli posiadana gofrownica jest słabszej mocy - po nałożeniu porcji ciasta i zamknięciu gofrownicy, nie otwieraj jej, póki wylana porcja ciasta mocno paruje. Otwórz ją dopiero, gdy widzisz, że para wodna prawie nie "ucieka". Powinny być brązowe i gotowe do wyjęcia - najlepiej na kratkę.
