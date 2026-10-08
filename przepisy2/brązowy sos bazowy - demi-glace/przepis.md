@@ -4,7 +4,7 @@
 - rozłożony na warzywach. 
 - Obie blachy przekładamy do piekarnika nagrzanego na 230 stopni, blachę z warzywami na górze, tuż pod grzałką, blachę z kośćmi na dole piekarnika.
 
-![]("przepisy2/brązowy sos bazowy - demi-glace/4.png")
+![](4.png)
 
 - Warzywa pieczemy przez jakieś 50-60 minut, aż będą ładnie przypieczone. Po tym czasie wyjmujemy blachę z warzywami, które przekładamy do garnka i zalewamy zimną wodą (aby tylko były przykryte), kości zaś umieszczamy na środku piekarnika i pieczemy jeszcze przez jakąś godzinę, półtorej, aż będą wyglądać mniej więcej tak:
 
