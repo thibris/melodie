@@ -31,28 +31,6 @@
     return "<p><i>Brak pliku: " . htmlspecialchars(basename($path)) . "</i></p>";
   }
 
-  function loadImages($folder) {
-    if (!is_dir($folder)) {
-      return [];
-    }
-
-    $files = scandir($folder);
-    $out = [];
-    $exts = ['jpg','jpeg','png','gif','webp'];
-
-    foreach ($files as $f) {
-      if ($f === '.' || $f === '..') continue;
-      $path = $folder . '/' . $f;
-      if (!is_file($path)) continue;
-
-      $ext = strtolower(pathinfo($f, PATHINFO_EXTENSION));
-      if (in_array($ext, $exts, true)) {
-          $out[] = $path;
-        }
-    }
-
-    return $out;
-  }
 ?>
 <!DOCTYPE html>
 <html lang="pl">
@@ -186,7 +164,6 @@
     $folder = $baseDir . "/" . $selected;
     $lista = loadMarkdown($folder . "/lista.md", $Parsedown);
     $przepis = loadMarkdown($folder . "/przepis.md", $Parsedown);
-    $images = loadImages($folder);
 ?>
 <div id="container">
     <div id="lista">
@@ -195,15 +172,6 @@
 
     <div id="przepis">
         <?= $przepis ?>
-
-        <?php if ($images): ?>
-        <h2>Zdjęcia</h2>
-        <div class="gallery">
-            <?php foreach ($images as $img): ?>
-                <img src="przepisy2/<?= htmlspecialchars($selected) ?>/<?= htmlspecialchars(basename($img)) ?>">
-            <?php endforeach; ?>
-        </div>
-        <?php endif; ?>
     </div>
 </div>
 

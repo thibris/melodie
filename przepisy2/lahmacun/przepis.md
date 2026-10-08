@@ -13,9 +13,11 @@
 -   blachę wyłożyć papierem do pieczenia
 
 -   lahmacuny najlepiej piec osobno. Farsz podzielić na 4 części. Placek posmarować równomiernie 1/4 farszu i przez piec w 250ºC (lub w najwyższej dostępnej w piekarniku temperaturze), przez ok. 12 min, aż rant ciasta mocno się zarumieni. Powtórzyć z pozostałymi plackami
+![](przepisy2/lahmacun/1.png)
 
 -   pół cytryny pokroić na 4 części
 
 -   każdy lahmacun podawać z cząstką cytryny i przed jedzeniem obficie skropić sokiem
 
 -   można dodatkowo podawać z zieleniną i ćwiartkami pomidora, zwinięte w rulon
+![](przepisy2/lahmacun/2.png)
