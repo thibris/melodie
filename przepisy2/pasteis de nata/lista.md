@@ -1,0 +1,8 @@
+- 350 gramów ciasta francuskiego
+- 30 gramów mąki pszennej (typ 500 lub podobny)
+- 250 mililitrów mleka 2,5-3,2% (ok. 1 szklanka)
+- 1/2 laski cynamonu (ok. 4 gramów)
+- 200 gramów cukru (ok. 1 szklanka)
+- 125 mililitrów wody (ok. 1/2 szklanki)
+- 4 żółtka z jaj kurzych rozmiar L lub XL (lub 5 żółtek z jaj M)
+- 1/3 skórki z jednej cytryny
