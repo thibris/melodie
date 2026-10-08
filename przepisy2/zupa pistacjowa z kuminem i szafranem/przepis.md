@@ -1,0 +1,8 @@
+- Rozgrzejcie piekarnik do 180'C . 
+- Szafran zalejcie w filiżance 2 łyżkami wrzącej wody i odstawcie do zaparzenia na 30 minut. Orzechy blanszujcie w gorącej wodzie prze 1 minutę, odcedźcie i kiedy wciąż są gorące, zdejmijcie z nich skórkę, ściskając orzechy między palcami. Cała skórka z nich nie zejdzie, nie przejmujcie się tym, nie będzie to miało wpływu na smak zupy, jednak usunięcie choćby części skórek sprawi, że zupa nabierze bardziej intensywnego koloru. 
+- Rozrzućcie pistacje na blasze do pieczenia i wstawcie do piekarnika na 8 minut. Odstaw orzechy do wystygnięcia.
+- Podgrzejcie masło w dużym rondlu, dodajcie szalotkę, imbir, por, kumin, 1/2 łyżeczki soli i trochę czarnego pieprzu. 
+- Smażcie wszystko na średnim ogniu przez 10 minut, często mieszając, aż szalotki będą zupełnie miękkie. Dodajcie bulion i połowę szafranowego naparu. Przykryjcie rondel, zmniejszcie ogień i gotujcie zupę na wolnym ogniu 20 minut.
+- Wsypcie wszystkie pistacje (oprócz 1 łyżki) do zupy i zmiksujcie na gładką masę, dodajcie sok z pomarańczy i cytryny, doprawcie do smaku. 
+- Posiekajcie grubo pozostałe orzechy. 
+- Zupę przelejcie do misek/talerzy i dodajcie do każdej porcji łyżkę śmietany, posypcie posiekanymi pistacjami i skropcie naparem z szafranu.

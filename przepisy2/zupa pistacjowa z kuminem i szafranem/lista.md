@@ -1,0 +1,12 @@
+- 1/4 łyżeczki nitek szafranu
+- 200 g niesolonych orzechów pistacjowych
+- 30 g niesolonego masła
+- 4 szalotki, obrane i drobno posiekane
+- 25 g imbiru, obranego i drobno posiekanego
+- 1 por, drobno posiekany (150 g)
+- 2 łyżeczki mielonego kuminu
+- 700 ml buliony z kurczaka
+- 80 ml świeżo wyciśniętego solu z pomarańczy
+- 1 łyżka soku z cytryny
+- sól, pieprz
+- kwaśna śmietana do podania

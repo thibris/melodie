@@ -1,0 +1,11 @@
+- 300 gramów wołowiny mielonej
+- 150 gramów pancetty (w zastępstwie można użyć boczku wędzonego)
+- 50 gramów marchewki (jedna średniej wielkości marchewka)
+- 50 gramów selera naciowego (jedna łodyga)
+- 50 gramów cebuli (średnia cebula lub połowa większej)
+- 40 gramów masła
+- 200 mililitrów bulionu mięsnego (niepełna szklanka)
+- 100 mililitrów białego wytrawnego wina
+- 100 mililitrów mleka
+- 2 łyżki podwójnego koncentratu pomidorowego (około 40 gramów)
+- szczypta soli
