@@ -1,0 +1,5 @@
+- Kości cielęce (mogą być też wołowe, ale cielęce mają lepszy smak) - około 5-6 kilogramów.
+- Marchew - 10 sztuk.
+- Cebula - 10 sztuk.
+- Seler naciowy - Dwa pęczki. 
+- Koncentrat pomidorowy - jeden słoiczek 150-200 gramów.
