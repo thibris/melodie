@@ -24,12 +24,45 @@
 
   $selected = isset($_GET['katalog']) ? basename($_GET['katalog']) : null;
 
+  // function loadMarkdown($path, $Parsedown) {
+    // if (file_exists($path)) {
+      // return $Parsedown->text(file_get_contents($path));
+    // }
+    // return "<p><i>Brak pliku: " . htmlspecialchars(basename($path)) . "</i></p>";
+  // }
+
+
   function loadMarkdown($path, $Parsedown) {
-    if (file_exists($path)) {
-      return $Parsedown->text(file_get_contents($path));
-    }
-    return "<p><i>Brak pliku: " . htmlspecialchars(basename($path)) . "</i></p>";
+      if (file_exists($path)) {
+          $markdown = file_get_contents($path);
+          // katalog względem dokumentu root
+          $relativeDir = str_replace(
+              str_replace('\\', '/', $_SERVER['DOCUMENT_ROOT']) . '/',
+              '',
+              str_replace('\\', '/', dirname($path))
+          );
+          // popraw ścieżki obrazków w markdown
+          $markdown = preg_replace_callback(
+              '/!\[(.*?)\]\((.*?)\)/',
+              function ($m) use ($relativeDir) {
+                  $src = $m[2];
+                  // zostaw zewnętrzne URL bez zmian
+                  if (preg_match('#^(https?:)?//#', $src)) {
+                      return $m[0];
+                  }
+                  // jeśli nie ma już katalogu
+                  if (!str_contains($src, '/')) {
+                      $src = $relativeDir . '/' . $src;
+                  }
+                  return '![' . $m[1] . '](' . $src . ')';
+              },
+              $markdown
+          );
+          return $Parsedown->text($markdown);
+      }
+      return "<p><i>Brak pliku: " . htmlspecialchars(basename($path)) . "</i></p>";
   }
+
 
 ?>
 <!DOCTYPE html>

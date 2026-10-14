@@ -8,5 +8,4 @@
 *Wołowina po burgundzku będzie jeszcze lepsza jeśli przygotujemy ją dzień wcześniej.* Wówczas danie wyjmujemy z piekarnika po 2 godzinach pieczenia. Następnego dnia zagotowujemy i pieczemy jeszcze przez ok. godzinę (w połowie pieczenia odkrywamy i dodajemy podsmażone pieczarki i cebulki).
 
 ![](1.png)
-![](przepisy2/boeuf%20bourguignon/1.png)
 
